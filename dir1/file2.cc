@@ -1,5 +1,5 @@
 /*
-
+aasdadasda
         String cadena="UPDATE empleado SET nombre='Hamza' WHERE codigo=?";
         String cadena2="INSERT INTO empleado (nombre,codigo,nif,apellido1) VALUES(?,?,?,?)";
         String cadena3="DELETE FROM empleado where codigo=?"; 
